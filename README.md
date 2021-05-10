@@ -1,4 +1,5 @@
 Amazon-clone là 1 project nhỏ xây dựng dựa trên trang website bán hàng nổi tiếng Amazon.
+
 Amazon-clone có các chức năng :
   +Đăng nhập/Đăng ký
   +Rỏ hàng
