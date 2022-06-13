@@ -14,7 +14,7 @@ Amazon-clone sử dụng các công nghệ :
 
   +Reactjs
 
-  +Redux
+  +ContextAPI
 
   +Material UI
 
@@ -22,4 +22,4 @@ Amazon-clone sử dụng các công nghệ :
 
   +ExpressJs
 
-App đang bị lỗi sau khi hosting, deploy.
+
